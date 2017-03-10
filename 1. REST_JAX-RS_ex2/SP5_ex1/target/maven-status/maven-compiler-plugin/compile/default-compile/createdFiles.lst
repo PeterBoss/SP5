@@ -1,0 +1,8 @@
+facade\PersonFacade.class
+test\Tester.class
+utility\JSONConverter.class
+facade\IPersonFacade.class
+rest\ApplicationConfig.class
+entity\Person.class
+entity\Person_.class
+rest\PersonResource.class

@@ -1,0 +1,4 @@
+exception\MyExceptionMapper.class
+rest\QuoteResource.class
+rest\QuoteResource$1.class
+rest\ApplicationConfig.class
