@@ -1,0 +1,4 @@
+data\Tester.class
+rest\DataResource.class
+data\DataGenerator.class
+rest\ApplicationConfig.class
